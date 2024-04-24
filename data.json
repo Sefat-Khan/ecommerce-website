@@ -1,0 +1,117 @@
+
+   [
+    {
+        "id" : 1,
+        "feature" : "img/features/f1.png",
+        "data" : "Free Shipping",
+        "product-img": "img/products/f1.jpg",
+        "product-info": "Cartoon Astronaut T-Shirt",
+        "brand": "adidas",
+        "price": "78",
+        "New-Arrival-product-img": "img/products/n1.jpg",
+        "New-Arrival-product-info": "Sky Blue T-Shirt",
+        "blog": "img/blog/b1.jpg",
+        "blogData": "The Cotton Jersey Zip-Up Hoodie",
+        "blogDate": "13/01",
+        "about": "img/about/a1.png"
+    },
+    {
+        "id" : 2,
+        "feature" : "img/features/f2.png",
+        "data" : "Online Order",
+        "product-img": "img/products/f2.jpg",
+        "product-info": "Flower T-Shirt",
+        "brand": "adidas",
+        "price": "72",
+        "New-Arrival-product-img": "img/products/n2.jpg",
+        "New-Arrival-product-info": "Grey Cross T-Shirt",
+        "blog": "img/blog/b2.jpg",
+        "blogData": "How to Style a Quiff",
+        "blogDate": "13/04",
+        "about": "img/about/a2.jpg"
+    },
+    {
+        "id" : 3,
+        "feature" : "img/features/f3.png",
+        "data" : "save Money",
+        "product-img": "img/products/f3.jpg",
+        "product-info": "Rich Flower T-Shirt",
+        "brand": "adidas",
+        "price": "82",
+        "New-Arrival-product-img": "img/products/n3.jpg",
+        "New-Arrival-product-info": "White T-Shirt",
+        "blog": "img/blog/b3.jpg",
+        "blogData": "Must-Have Skater Girl Items",
+        "blogDate": "12/01",
+        "about": "img/about/a3.png"
+    },
+    {
+        "id" : 4,
+        "feature" : "img/features/f4.png",
+        "data" : "Promotions",
+        "product-img": "img/products/f4.jpg",
+        "product-info": "Sakura T-Shirt",
+        "brand": "adidas",
+        "price": "75",
+        "New-Arrival-product-img": "img/products/n4.jpg",
+        "New-Arrival-product-info": "G-ST T-Shirt",
+        "blog": "img/blog/b4.jpg",
+        "blogData": "Runway-Inspired Trends",
+        "blogDate": "16/01",
+        "about": "img/about/a4.png"
+    },
+    {
+        "id" : 5,
+        "feature" : "img/features/f5.png",
+        "data" : "Happy sell",
+        "product-img": "img/products/f5.jpg",
+        "product-info": "Rose T-Shirt",
+        "brand": "adidas",
+        "price": "68",
+        "New-Arrival-product-img": "img/products/n5.jpg",
+        "New-Arrival-product-info": "Navy Blue T-Shirt",
+        "blog": "img/blog/b5.jpg",
+        "blogData": "Msw",
+        "blogDate": "12/03",
+        "about": "img/about/a5.jpg"
+    },
+    {
+        "id" : 6,
+        "feature" : "img/features/f6.png",
+        "data" : "24/7 Support",
+        "product-img": "img/products/f6.jpg",
+        "product-info": "Dual Style T-Shirt",
+        "brand": "adidas",
+        "price": "89",
+        "New-Arrival-product-img": "img/products/n6.jpg",
+        "New-Arrival-product-info": "Short Pant",
+        "blog": "img/blog/b6.jpg",
+        "blogData": "AW20 Menswear Trends",
+        "blogDate": "10/03",
+        "about": "img/about/a6.jpg",
+        "aboutData": "Who We Are?"
+    },
+    
+    {
+        "id" : 7,
+        "product-img": "img/products/f7.jpg",
+        "product-info": "Flower Style Pant",
+        "brand": "adidas",
+        "price": "68",
+        "New-Arrival-product-img": "img/products/n7.jpg",
+        "New-Arrival-product-info": "Sandy Style T-Shirt",
+        "blog": "img/blog/b7.jpg",
+        "blogData": "Msa",
+        "blogDate": "11/02"
+    },
+    {
+        "id" : 8,
+        "product-img": "img/products/f8.jpg",
+        "product-info": "Squid Style Dress",
+        "brand": "adidas",
+        "price": "92",
+        "New-Arrival-product-img": "img/products/n8.jpg",
+        "New-Arrival-product-info": "Grey T-Shirt"
+    }
+    
+   ]
