@@ -30,4 +30,4 @@ Here you will find all the images I'm using to create this responsive ecommerce 
 
 Get the full source code from [[here1](https://www.buymeacoffee.com/tech2etc/e/50932)](https://github.com/Sefat-Khan/ecommerce-website.git).
 
-preview link : 
+preview link : https://sefat-khan.github.io/ecommerce-website/
